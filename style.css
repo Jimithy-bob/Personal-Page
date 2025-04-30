@@ -1,7 +1,7 @@
 .section {
-  border: 3px solid black;
+  border: 3px white;
   border-radius: 10px;
   width: 500px;
-  text-align:center;
+  text-align: center;
   border-color: white; 
 }
