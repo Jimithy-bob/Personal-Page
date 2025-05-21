@@ -2,7 +2,15 @@
   border: 3px solid white;
   border-radius: 10px;
   width: 500px;
+  height: 50px;
   padding: 3px;
+  vetical-align: top;
   text-align: center;
+  margin: auto;
  
 }
+
+.hobbybox {
+  background-color:blue;
+}
+
